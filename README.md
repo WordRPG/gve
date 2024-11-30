@@ -10,8 +10,8 @@ and used in other programming languages.
 4. Run `bash export.sh`
 
 # Files
-The `fasttext-wiki-news-subwords-300` and all `glove-wiki-gigaword-X` models from
-50 to 200 are stored at `mega.nz`.
+The `word2vec-google-news-300`, `fasttext-wiki-news-subwords-300` and all `glove-wiki-gigaword-X` models from
+50 to 300 are stored at `mega.nz`.
 
 **Dataset Link (Mega.NZ)** 
 https://mega.nz/folder/o6cH3ZTa#mMFtVjs7K5ooEhBeUehbhQ
